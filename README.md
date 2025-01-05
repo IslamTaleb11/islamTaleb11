@@ -12,8 +12,8 @@
 #### Tools: Git, Docker, Webpack
 #### Databases: MySQL, SQLite
 ## 🌟 Current Goals
-####Expanding my portfolio with advanced SaaS projects.
-####Learning more about DevOps and cloud infrastructure.
+#### Expanding my portfolio with advanced SaaS projects.
+#### Learning more about DevOps and cloud infrastructure.
 ## 📫 Let’s Connect
 #### Feel free to check out my repositories and reach out for collaborations or freelance projects!
 
